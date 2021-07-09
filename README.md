@@ -67,7 +67,7 @@
 
 ## GitHub Statistics:
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grady2002&count_private=true&show_icons=true&theme=dark" alt="grady2002" height="200"/>
+  <!-- img align="center" src="https://github-readme-stats.vercel.app/api?username=grady2002&count_private=true&show_icons=true&theme=dark" alt="grady2002" height="200"/ -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grady2002&layout=compact&theme=dark" alt="grady2002" height="200"/>
 </p>
 
