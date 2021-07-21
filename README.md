@@ -1,4 +1,4 @@
-# Welcome to Grady's GIT world 
+# Hello there, I am Grady !
 <br />
 
 ## Frontend Developer, entering into MERN stack development.
