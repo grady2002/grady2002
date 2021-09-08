@@ -3,7 +3,7 @@
 
 ## Frontend Developer, entering into MERN stack development.
 
-- 🌱 Enhancing my knowledge on web development. Check out my [portfolio](https://grady-pf.netlify.app).
+- 🌱 Enhancing my knowledge on web development.
 - 👯 I’m looking to collaborate on open source projects and learn new skills & libraries.
 - 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, TypeScript.
 
@@ -75,4 +75,4 @@
 
 ## Connect with me:
 
-[<img align="center" height="40" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://instagram.com/grady.css)
+<img align="center" height="40" src="https://img.icons8.com/color/50/000000/discord-logo.png"/> - <b>grady#5369</b>
