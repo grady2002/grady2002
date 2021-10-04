@@ -1,8 +1,5 @@
 # Hello there, I am Grady !
 <img src="https://img.shields.io/badge/Mr.Javascript-%20-yellow" />
-<img src="https://img.shields.io/badge/Google%20Student%20Developer-%20-red" />
-<img src="https://img.shields.io/badge/Github%20Pro-%20-brightgreen" />
-<img src="https://img.shields.io/badge/Developer%20Program%20Member-%20-blue" />
 <br />
 
 ## Frontend Developer, entering into MERN stack development.
