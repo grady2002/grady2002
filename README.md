@@ -72,7 +72,8 @@
 </p>
 <p>
   ## Connect with me:
-  [<img align="center" height="40" src="https://img.icons8.com/color/50/000000/discord-logo.png"/>](https://discord.com/users/597101397389082634)</p>
+  [<img align="center" height="40" src="https://img.icons8.com/color/50/000000/discord-logo.png"/>](https://discord.com/users/597101397389082634)
+</p>
 <br /><br />
 
 
