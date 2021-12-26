@@ -70,9 +70,9 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grady2002&layout=compact&theme=dark" alt="grady2002" height="200"/>
 </p>
-<p></p>
+<p>
+  ## Connect with me:
+  [<img align="center" height="40" src="https://img.icons8.com/color/50/000000/discord-logo.png"/>](https://discord.com/users/597101397389082634)</p>
 <br /><br />
 
-## Connect with me:
 
-[<img align="center" height="40" src="https://img.icons8.com/color/50/000000/discord-logo.png"/>](https://discord.com/users/597101397389082634)
