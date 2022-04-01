@@ -8,7 +8,7 @@
 
 - 🌱 Enhancing my knowledge on web development and blockchain.
 - 👯 I’m looking to collaborate on open source projects and learn new skills & libraries.
-- 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, TypeScript.
+- 💬 Reach out to me for discussions around JavaScript, ReactJS, TypeScript (and / or) Blockchain as well.
 
 <br />
 
