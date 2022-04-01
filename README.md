@@ -1,11 +1,12 @@
 # Hello there, I am Grady !
+
 <img src="https://img.shields.io/badge/Mr.Javascript-%20-yellow" />
 <img src="https://komarev.com/ghpvc/?username=grady2002&label=Profile%20views&color=0e75b6&style=flat" />
 <br />
 
 ## Frontend Developer, entering into MERN stack development.
 
-- 🌱 Enhancing my knowledge on web development.
+- 🌱 Enhancing my knowledge on web development and blockchain.
 - 👯 I’m looking to collaborate on open source projects and learn new skills & libraries.
 - 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, TypeScript.
 
@@ -51,7 +52,7 @@
 
   <a href="https://git-scm.com/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
 
   <a href="https://figma.com/" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="git" width="40" height="40"/> 
@@ -65,10 +66,8 @@
    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
 
-<br /><br />  
+<br /><br />
 
 <p>
   <h3>Discord Contact : grady#1419<h3>
 </p>
-
-
