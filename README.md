@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=grady2002&label=Profile%20views&color=0e75b6&style=flat" />
 <br />
 
-## Frontend Developer, entering into MERN stack development.
+## Javascript Developer, entering into MERN stack development.
 
 - 🌱 Enhancing my knowledge on web development and blockchain.
 - 👯 I’m looking to collaborate on open source projects and learn new skills & libraries.
