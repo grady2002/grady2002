@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-Cybersecurity && Ethical Hacking....
+### Areas of interest 🐼
+- Cyberseurity 🛜
+- Ethical Hacking 💀
+- Reverse Engineering 🔄
+- Programming 💻
