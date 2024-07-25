@@ -1,8 +1,7 @@
 # Hi there 👋
-Myself Aatif, I love to study networks, computer and electronics.
+I am Aatif and I eat a lot. I like to traumatize others by making them read my code..
 
 #### Areas of interest 🐼
 - Cyberseurity 🛜
-- Ethical Hacking 💀
-- Reverse Engineering 🔄
+- Penetration Testing 💉
 - Programming 💻
